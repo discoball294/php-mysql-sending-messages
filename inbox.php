@@ -81,15 +81,7 @@ $msg = new Messages($db);
                 </div>
             </div>
         </div>
-        <div class="col-md-3 padding-20">
-            <h2>Trends <a href="#"><i class="fa fa-globe"></i></a></h2>
-            <ul>
-                <li>PPAP</li>
-                <li>US Election</li>
-                <li>Octoberfest</li>
-                <li>Hello October</li>
-            </ul>
-        </div>
+
 
 
     </div>
